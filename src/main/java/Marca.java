@@ -5,6 +5,7 @@ public class Marca {
 	private String nombre;
 
 	public Marca(String nombre) {
+		super();
 		this.nombre = nombre;
 	}
 
