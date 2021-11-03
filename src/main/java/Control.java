@@ -1,4 +1,4 @@
-package taller3.televisores;
+package java.televisores;
 
 public class Control {
 	private TV tv;
